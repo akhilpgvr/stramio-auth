@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.Header{
+  background-color: #61dafb;
+  justify-content: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
